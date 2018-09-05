@@ -7,3 +7,8 @@
 
 设置应用程序密钥
 - php artisan key:generate
+
+生成加密密钥
+
+- php artisan jwt:secret
+
